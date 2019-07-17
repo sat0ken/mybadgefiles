@@ -1,3 +1,3 @@
 # mybadgefiles
 
-![docker](png/docker.png)
+![docker_logo](png/docker_logo.png)
