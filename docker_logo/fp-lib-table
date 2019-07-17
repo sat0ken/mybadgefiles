@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "docker_take2")(type KiCad)(uri "$(KIPRJMOD)/docker_take2.pretty")(options "")(descr ""))
+)
